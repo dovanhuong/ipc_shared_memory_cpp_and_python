@@ -8,6 +8,9 @@ Instruction to run the script:
   `$ ./shared_mem`
 5. Run Python script
    `$ python shared_mem.py`
+   
+Demo:
+https://youtu.be/JoWIE2bbRfg
 
 #Contact:
 <i>vanhuong.robotics@gmail.com</i>
